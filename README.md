@@ -1,4 +1,4 @@
-# plant_app_ui
+# Plant Application Ui
 
 A new Flutter project.
 
